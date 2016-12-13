@@ -34,7 +34,7 @@ public class Configurations {
 	
 	public static final String ExAccounts_last  = "]/td[2]";
 	
-	//Serviceabilty Page
+	//Serviceabilty Page Xpaths
 	public static final String servcMsg = "//*[@id=\"alert-1\"]/span";
 	
 	public static final String chkAnotherAddress = "//*[@id=\"Serviceability\"]/div/div/div/div[2]/div/div[1]/div[2]/div/div/div[2]/button";
